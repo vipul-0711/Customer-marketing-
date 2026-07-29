@@ -17,11 +17,7 @@ This project analyzes customer marketing data to identify customer behavior, cam
 ---
 
  Tools Used
-
-* **Tableau** – Interactive Dashboard & Data Visualization
-* **Microsoft Excel** – Data Cleaning & Preprocessing
-* **SQL** – Data Extraction & Analysis
-
+python google collab 
 ---
  Key Performance Indicators (KPIs)
 
